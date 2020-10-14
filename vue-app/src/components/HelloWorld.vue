@@ -1,10 +1,9 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    
-   
-   
-    
+    <router-link to="/foo">Go to Foo</router-link>
+    <br>
+    <router-link to="/bar">Go to Bar</router-link>
   </div>
 </template>
 
