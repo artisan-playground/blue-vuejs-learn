@@ -1,7 +1,7 @@
 <template>
   <div>
       <h1>
-          Bar
+          Ba
       </h1>
   </div>
 </template>
