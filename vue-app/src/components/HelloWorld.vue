@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <router-link to="/profile">PART 1 PROFILE </router-link>
     <br>
-    <router-link to="/edu">PART 2 EDUCATION </router-link>
+    <router-link to="/edu">PART  EDUCATION </router-link>
     <br>
     <router-link to="/activity">PART 3 ACTIVITY</router-link>
   </div>
