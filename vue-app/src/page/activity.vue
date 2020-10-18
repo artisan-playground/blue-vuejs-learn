@@ -1,14 +1,14 @@
 <template>
   <div>
       <h1>
-          Ba
+          <img src="..\assets\activity.png" width="1000" height="1200">
       </h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'bar'
+   name: 'activity'
 }
 </script>
 

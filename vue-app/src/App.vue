@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Welcome to Blue Vue.js App" />
+    <HelloWorld msg="Welcome to Blue's Portfolio" />
     <router-view />
   </div>
 </template>

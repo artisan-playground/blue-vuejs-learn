@@ -1,9 +1,11 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <router-link to="/foo">Go to Foo</router-link>
+    <router-link to="/profile">PART 1 PROFILE </router-link>
     <br>
-    <router-link to="/bar">Go to Bar</router-link>
+    <router-link to="/edu">PART 2 EDUCATION </router-link>
+    <br>
+    <router-link to="/activity">PART 3 ACTIVITY</router-link>
   </div>
 </template>
 
