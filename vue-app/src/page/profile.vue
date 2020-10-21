@@ -1,8 +1,20 @@
 <template>
   <div>
-      <h1>
-          <img src="../assets/profile.png" width="1000" height="1200">
-      </h1>
+    <h1>
+      <p align=center>
+      PROFILE
+      <br>
+      ประวัติส่วนตัว
+      </p>
+    </h1>
+    
+      <img src="../assets/me.jpg" width="500" height="500">
+     <div class="right">
+       ชื่อ: ณัฐภัทร ญาติฝูง
+       <br>
+       ชื่อเล่น: บลู
+     </div>
+              
   </div>
 </template>
 
@@ -13,5 +25,11 @@ export default {
 </script>
 
 <style>
-
+.right {
+  position: absolute;
+  right: 500px;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
 </style>

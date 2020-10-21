@@ -1,7 +1,7 @@
 <template>
   <div>
       <h1>
-        test
+        
           <img src="../assets/edu.png" width="1000" height="1200">
       </h1>
   </div>
