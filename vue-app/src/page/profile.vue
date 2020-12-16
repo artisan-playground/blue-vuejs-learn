@@ -10,9 +10,10 @@
     
       <img src="../assets/me.jpg" width="500" height="500">
      <div class="right">
-       ชื่อ: ณัฐภัทร ญาติฝูง
+      <h1> ชื่อ: ณัฐภัทร ญาติฝูง
        <br>
        ชื่อเล่น: บลู
+       </h1>
      </div>
               
   </div>
